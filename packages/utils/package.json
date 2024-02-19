@@ -1,0 +1,9 @@
+{
+  "name": "@hnb-pkg/utils",
+  "version": "1.0.0",
+  "description": "utils packages developed by h4nabii",
+  "scripts": {},
+  "keywords": [],
+  "author": "h4nabii <h4nabii.xu@outlook.com>",
+  "license": "MIT"
+}

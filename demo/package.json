@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "ui",
+    "component"
+  ],
+  "author": "h4nabii <h4nabii.xu@outlook.com>",
+  "license": "MIT"
+}

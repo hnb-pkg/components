@@ -1,0 +1,13 @@
+{
+  "name": "@hnb-pkg/components",
+  "version": "1.0.0",
+  "description": "vue components packages developed by h4nabii",
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "ui",
+    "component"
+  ],
+  "author": "h4nabii <h4nabii.xu@outlook.com>",
+  "license": "MIT"
+}
