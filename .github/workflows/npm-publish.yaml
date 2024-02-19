@@ -15,6 +15,7 @@ jobs:
           node-version: "18.x"
           registry-url: "https://registry.npmjs.org"
       - run: npm i pnpm -g
+      - run: npm login --scope=hnb-pkg --registry=https://registry.npmjs.org
       - run: pnpm -F @hnb-pkg/utils publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
