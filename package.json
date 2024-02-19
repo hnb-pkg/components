@@ -3,5 +3,11 @@
   "private": "true",
   "scripts": {},
   "author": "h4nabii <h4nabii.xu@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.4.19"
+  },
+  "devDependencies": {
+    "vite": "^5.1.3"
+  }
 }
