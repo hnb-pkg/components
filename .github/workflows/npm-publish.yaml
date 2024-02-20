@@ -17,4 +17,4 @@ jobs:
       - run: npm i pnpm -g
       - run: pnpm -F @hnb-pkg/utils publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
